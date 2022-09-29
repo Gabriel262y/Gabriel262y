@@ -21,5 +21,4 @@ For more help, read our article "Deleting your user account".
 Your username or email:
 
 To verify, type delete my account below:
-
-
+Facebook 
